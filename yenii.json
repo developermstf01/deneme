@@ -1,0 +1,103 @@
+[
+	{
+		"kategori":"Bakliyat",
+		"teslimat_ucreti":"2₺",
+		"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pirinc.jpg",
+		
+		"urunler": [
+		
+		{
+			"isim":"Pirinç",
+			"fiyat":"10₺",
+			"birim":"1kg",
+			"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pirinc.jpg"
+		},
+		
+		{
+			"isim":"Nohut",
+			"fiyat":"8₺",
+			"birim":"1kg",
+			"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/nohut.jpg"
+		},
+		
+		{
+			"isim":"Makarna",
+			"fiyat":"3,5₺",
+			"birim":"1 adet",
+			"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/makarna.jpg"
+		}
+		
+		]
+	},
+	
+	{
+		"kategori":"Çerez",
+		"teslimat_ucreti":"2₺",
+		"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cerezza.jpg",
+		
+		"urunler": [
+		{
+			"isim":"Çerezza",
+			"fiyat":"7₺",
+			"birim":"1 adet",
+			"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cerezza.jpg"
+		},
+		
+		{
+			"isim":"Çekirdek",
+			"fiyat":"13,5₺",
+			"birim":"1kg",
+			"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cekirde.jpg"
+		},
+		{
+			"isim":"Çerezza",
+			"fiyat":"7₺",
+			"birim":"1 adet",
+			"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cerezza.jpg"
+		},
+		
+		{
+			"isim":"Çekirdek",
+			"fiyat":"13,5₺",
+			"birim":"1kg",
+			"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cekirde.jpg"
+		},
+		{
+			"isim":"Çerezza",
+			"fiyat":"7₺",
+			"birim":"1 adet",
+			"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cerezza.jpg"
+		},
+		
+		{
+			"isim":"Çekirdek",
+			"fiyat":"13,5₺",
+			"birim":"1kg",
+			"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cekirde.jpg"
+		}
+		]
+	},
+	
+	{
+		"kategori":"Teknoloji",
+		"teslimat_ucreti":"3₺",
+		"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/sarjaleti.jpg",
+		
+		"urunler": [
+			
+			{
+				"isim":"Kulaklık",
+				"fiyat":"15₺",
+				"birim":"1 adet",
+				"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/kulaklik.jpg"
+			},
+
+			{
+				"isim":"Şarj Aleti",
+				"fiyat":"12₺",
+				"birim":"1 adet",
+				"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/sarjaleti.jpg"
+			}
+		]
+	}
+]
