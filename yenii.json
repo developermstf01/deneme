@@ -1,67 +1,49 @@
-{
-	"listem": [
-			{
-				"kategori":"Bakliyat",
-				"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pirinc.jpg",
-				"urunler": [
-					
-					{
-						"isim":"Pirinç",
-						"miktar":"1kg",
-						"fiyat":"10tl",
-						"image":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pirinc.jpg"
-					},
-					{
-						"isim":"Nohut",
-						"miktar":"1kg",
-						"fiyat":"12tl",
-						"image":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/nohut.jpg"
-					},
-					{
-						"isim":"Mercimek",
-						"miktar":"1kg",
-						"fiyat":"14tl",
-						"image":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pirinc.jpg"
-					}
-					]
-			},
+[
+
+	{"kategori":"Bakliyat",
+	"image":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pirinc.jpg",
+	"urunler":[
+	
+		{
 		
-			{
-			"kategori":"Çerez",
-			"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cerezza.jpg",
-			"urunler":[
-				{
-					"isim":"Çekirdek",
-					"miktar":"1kg",
-					"fiyat":"12tl",
-					"image":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cekirde.jpg"
-				},
-				{
-					"isim":"Çerezza",
-					"miktar":"1 adet",
-					"fiyat":"4tl",
-					"image":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cerezza.jpg"
-				}
-			]
-			},
+			"isim":"Pirinç",
+			"fiyat":"10",
+			"miktar":"1kg",
+			"url":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pirinc.jpg"
+		},
 		
-			{
-			"kategori":"Teknoloji",
-			"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/sarjaleti.jpg",
-			"urunler": [
-				{
-					"isim":"Kulaklık",
-					"miktar":"1 adet",
-					"fiyat":"20tl",
-					"image":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/kulaklik.jpg"
-				},
-				{
-					"isim":"Şarj Aleti",
-					"miktar":"1 adet",
-					"fiyat":"18tl",
-					"image":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/sarjaleti.jpg"
-				}
-			]
-			}
+		{
+		
+			"isim":"Nohut",
+			"fiyat":"12tl",
+			"miktar":"1kg",
+			"url":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/nohut.jpg"
+		}
+	
 	]
-}
+	},
+	
+	{
+	
+		"kategori":"Teknoloji",
+		"image":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/sarjaleti.jpg",
+		"urunler": [
+		
+			{
+			
+				"isim":"Şarj Aleti",
+				"fiyat":"8tl",
+				"miktar":"1 adet",
+				"url":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/sarjaleti.jpg"
+			},
+			
+			{
+			
+				"isim":"Kulaklık",
+				"fiyat":"12tl",
+				"miktar":"1 adet",
+				"url":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/kulaklik.jpg"
+			}
+		]
+	}
+]
