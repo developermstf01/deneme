@@ -8,21 +8,21 @@
 				
 				{
 					"isim":"Pirinç",
-					"fiyat":"10tl",
+					"fiyat":10,
 					"miktar":"1kg",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pirinc.jpg"
 				},
 				
 				{
 					"isim":"Nohut",
-					"fiyat":"8tl",
+					"fiyat":8,
 					"miktar":"1kg",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/nohut.jpg"
 				},
 				
 				{
 					"isim":"Bulgur",
-					"fiyat":"6tl",
+					"fiyat":6,
 					"miktar":"1kg",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pirinc.jpg"
 				}
@@ -37,21 +37,21 @@
 				
 				{
 					"isim":"Kulaklık",
-					"fiyat":"15tl",
+					"fiyat":15,
 					"miktar":"1 adet",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/kulaklik.jpg"
 				},
 				
 				{
 					"isim":"Şarj Aleti",
-					"fiyat":"13tl",
+					"fiyat":13,
 					"miktar":"1 adet",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/sarjaleti.jpg"
 				},
 				
 				{
 					"isim":"Telefon",
-					"fiyat":"150tl",
+					"fiyat":150,
 					"miktar":"1 adet",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/kulaklik.jpg"
 				}
@@ -64,14 +64,14 @@
 			"urunler":[
 				{
 					"isim":"Çekirdek",
-					"fiyat":"10tl",
+					"fiyat":10,
 					"miktar":"1kg",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cekirde.jpg"
 				},
 				
 				{
 					"isim":"Çerezza",
-					"fiyat":"8tl",
+					"fiyat":8,
 					"miktar":"1 adet",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cerezza.jpg"
 				}
