@@ -7,21 +7,21 @@
 				
 				{
 					"isim":"Pirinç",
-					"fiyat":"10tl",
+					"fiyat":10,
 					"miktar":"1kg",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pirinc.jpg"
 				},
 				
 				{
 					"isim":"Nohut",
-					"fiyat":"8tl",
+					"fiyat":8,
 					"miktar":"1kg",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/nohut.jpg"
 				},
 				
 				{
 					"isim":"Bulgur",
-					"fiyat":"6tl",
+					"fiyat":6,
 					"miktar":"1kg",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pirinc.jpg"
 				}
@@ -36,21 +36,21 @@
 				
 				{
 					"isim":"Kulaklık",
-					"fiyat":"15tl",
+					"fiyat":15,
 					"miktar":"1 adet",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/kulaklik.jpg"
 				},
 				
 				{
 					"isim":"Şarj Aleti",
-					"fiyat":"13tl",
+					"fiyat":13,
 					"miktar":"1 adet",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/sarjaleti.jpg"
 				},
 				
 				{
 					"isim":"Telefon",
-					"fiyat":"150tl",
+					"fiyat":150,
 					"miktar":"1 adet",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/kulaklik.jpg"
 				}
@@ -63,16 +63,76 @@
 			"urunler":[
 				{
 					"isim":"Çekirdek",
-					"fiyat":"10tl",
+					"fiyat":10,
 					"miktar":"1kg",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cekirde.jpg"
 				},
 				
 				{
 					"isim":"Çerezza",
-					"fiyat":"8tl",
+					"fiyat":8,
 					"miktar":"1 adet",
 					"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/cerezza.jpg"
+				}
+			]
+		},
+		
+		{
+			"kategori":"Ev Bakım",
+			"image":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/vernel.jpg",
+			"urunler":[
+				{
+				"isim":"Vernel",
+				"fiyat":23.50,
+				"miktar":"1.5kg",
+				"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/vernel.jpg"
+				},
+				
+				{
+				"isim":"Pril",
+				"fiyat":17.50,
+				"miktar":"1kg",
+				"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/pril.png"
+				}
+			]
+		},
+		
+		{
+			"kategori":"Kişisel Bakım",
+			"image":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/dismacunu.jpg",
+			"urunler":[
+				{
+				"isim":"Diş Macunu",
+				"fiyat":7,
+				"miktar":"700gr",
+				"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/dismacunu.jpg"
+				},
+				
+				{
+				"isim":"Hacışakir Sabun",
+				"fiyat":12.50,
+				"miktar":"1 paket",
+				"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/hacisakirsabun.jpg"
+				}
+			]
+		},
+		
+		{
+			"kategori":"Kahvaltılık",
+			"image":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/yumurta.jpg",
+			"urunler":[
+				{
+				"isim":"Yumurta",
+				"fiyat":15,
+				"miktar":"1 kep",
+				"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/yumurta.jpg"
+				},
+				
+				{
+				"isim":"Peynir",
+				"fiyat":40,
+				"miktar":"1kg",
+				"resim":"https://raw.githubusercontent.com/developermstf01/bereketmarket/main/peynir.jpg"
 				}
 			]
 		}
